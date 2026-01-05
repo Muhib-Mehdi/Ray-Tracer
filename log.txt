@@ -1,0 +1,9 @@
+MSBuild version 18.0.5+e22287bf1 for .NET Framework
+
+  main.c
+  scene.c
+  renderer.c
+D:\12Ray tracing engine\src\scene\scene.c(37,25): error C2440: '=': cannot convert from 'int' to 'Object' [D:\12Ray tracing engine\build\raytracer.vcxproj]
+D:\12Ray tracing engine\src\scene\scene.c(49,25): error C2440: '=': cannot convert from 'int' to 'Object' [D:\12Ray tracing engine\build\raytracer.vcxproj]
+  ui.c
+  Generating Code...
